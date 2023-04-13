@@ -1,0 +1,7 @@
+{
+  "text.autoconfig.smart-disconnect.title": "Smart Disconnect Config",
+  "text.autoconfig.smart-disconnect.option.Enabled": "Enable Functionality",
+  "text.autoconfig.smart-disconnect.option.SafeMode": "Safe Mode",
+  "text.autoconfig.smart-disconnect.option.SafeMode.@Tooltip": "What should the mod do secure yourself from accidentally leaving.",
+  "text.autoconfig.smart-disconnect.option.Enabled.@Tooltip": "Disable or enable this mods functionality."
+}
